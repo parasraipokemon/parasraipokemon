@@ -3,10 +3,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&color=38b6ff&size=25&center=true&vCenter=true&width=600&height=50&lines=Full+Stack+Developer;Open+Source+Enthusiast;Problem+Solver;Tech+Blogger)](https://git.io/typing-svg)
 
 ## 🧑‍💻 About Me
-- 🔭 I'm currently working on **[Your Current Project]**
-- 🌱 I'm currently learning **[New Technology/Skill]**
-- 👯 I'm looking to collaborate on **[Project Type]**
-- 🤔 I'm looking for help with **[Specific Topic]**
+- 🔭 I'm currently working on Java
+- 🌱 I'm currently learning Java
+- 👯 I'm looking to collaborate on 
+- 🤔 I'm looking for help with 
 - 💬 Ask me about **[Your Expertise]**
 - 📫 How to reach me: **[Your Email]**
 - ⚡ Fun fact: **[Something interesting about you]**
